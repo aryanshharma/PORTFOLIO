@@ -2,13 +2,13 @@ import { FaExternalLinkAlt, FaGithub } from 'react-icons/fa'
 
 const projects = [
   {
-    title: 'E-Commerce Dashboard',
+    title: 'Sahil Hair Expert',
     description:
-      'A modern, responsive admin dashboard for e-commerce platforms with real-time analytics, charts, and a sleek dark mode UI built with React.',
-    tags: ['React', 'CSS', 'Chart.js'],
+      'A premium luxury salon website for Sahil Hair Expert in Karnal, featuring elegant animations, service showcases, and a modern dark-themed UI built with React & Vite.',
+    tags: ['React', 'Vite', 'CSS'],
     image: null,
     gradient: 'linear-gradient(135deg, #667eea 0%, #764ba2 100%)',
-    liveUrl: '#',
+    liveUrl: 'https://hair-wine.vercel.app/',
     codeUrl: '#',
   },
   {
