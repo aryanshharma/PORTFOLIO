@@ -33,7 +33,7 @@ function Hero() {
             <a href="#projects" className="btn-primary" id="hero-cta-projects">
               View My Work <FaArrowRight />
             </a>
-            <a href="#contact" className="btn-secondary" id="hero-cta-contact">
+            <a href="https://resume-tau-seven-90.vercel.app/" className="btn-secondary" id="hero-cta-cv" target="_blank" rel="noopener noreferrer">
               <FaDownload /> Download CV
             </a>
           </div>
